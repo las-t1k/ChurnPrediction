@@ -23,7 +23,7 @@ Achieved a model with an eightfold uplift in the first decile of the churn model
 - Gained deeper insights into the practical application of causal inference in predictive analytics.
 - Learned the importance of integrating qualitative analysis and AI techniques such as causal AI to fully understand the reasons behind customer churn.
 
-## [PT-BR] Projeto: Redução do Índice de Churning
+## [PT-BR] Projeto: Redução de Churn
 
 **Objetivo:**  
 Reduzir os índices de churn para dois segmentos de clientes, onde os índices iniciais eram de 30% e 60%, respectivamente.
